@@ -17,7 +17,7 @@ A simple and intuitive Android app for managing your personal or library book co
 
  Installation
 1. Clone the repository:
-   [git clone https://github.com/yourusername/library-book-manager.git](https://github.com/DinuGamage99/Library-Book-Manager-Android-/tree/main)
+   [(https://github.com/DinuGamage99/Library-Book-Manager-Android-/tree/main)]
   
   
 Open the project in Android Studio.
